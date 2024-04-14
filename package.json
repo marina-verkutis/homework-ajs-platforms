@@ -1,0 +1,19 @@
+{
+  "name": "@marina-verkutis/homework-ajs-platforms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marina-verkutis/homework-ajs-platforms.git"
+  },
+  "author": "Marina Verkutis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marina-verkutis/homework-ajs-platforms/issues"
+  },
+  "homepage": "https://github.com/marina-verkutis/homework-ajs-platforms#readme"
+}
